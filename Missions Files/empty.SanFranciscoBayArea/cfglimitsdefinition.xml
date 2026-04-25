@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lists>
+    <categories>
+        <category name="tools"/>
+        <category name="containers"/>
+        <category name="clothes"/>
+        <category name="food"/>
+        <category name="weapons"/>
+        <category name="explosives"/>
+        <category name="rifles" />
+        <category name="pistols" />
+        <category name="bags" />
+    </categories>
+    <tags>
+        <tag name="Military"/>
+        <tag name="Police"/>
+        <tag name="Medic"/>
+        <tag name="Firefighter"/>
+        <tag name="Industrial"/>
+        <tag name="Farm"/>
+        <tag name="Prison"/>
+        <tag name="Coast"/>
+        <tag name="Town"/>
+        <tag name="Village"/>
+        <tag name="Hunting"/>
+        <tag name="ContaminatedArea"/>
+        <tag name="Historical"/>
+    </tags>
+    <valueflags>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+        <value name="Tier6"/>
+        <value name="Tier7"/>
+        <value name="Tier8"/>
+    </valueflags>
+</lists>

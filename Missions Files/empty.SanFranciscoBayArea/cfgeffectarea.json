@@ -1,0 +1,30 @@
+{
+    "Areas": [
+		{ 	"AreaName": "NuclearBunker", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [6167.2, 147.16, 9411.18],
+				"Radius": 300,
+				"PosHeight": 30,
+				"NegHeight": 3,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 20,
+				"OuterOffset": -5, 
+				"VerticalLayers": 1,
+				"VerticalOffset": 10,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		}
+    ],
+
+	"SafePositions":[
+	]
+}
